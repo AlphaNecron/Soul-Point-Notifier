@@ -1,0 +1,8 @@
+Website = "https://goldor.dev"
+
+[Details]
+  Icon = "src/assets/logo.png"
+  Name = "Soul Point Notifier"
+  ID = "dev.goldor.spnoti"
+  Version = "0.1.0"
+  Build = 4
